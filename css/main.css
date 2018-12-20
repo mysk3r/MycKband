@@ -25,6 +25,11 @@ a:visited{
 	text-decoration: blink;
 }
 
+a:hover{
+	color: #555;
+}
+
+
 ul{
 	list-style:none;
 }
